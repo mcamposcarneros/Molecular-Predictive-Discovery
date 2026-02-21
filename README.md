@@ -210,32 +210,6 @@ FPs have very weak affinities (> 10,000 nM) and are structurally similar to know
 
 ## Requirements
 
-```bash
-pip install -r requirements.txt
-```
-
-**`requirements.txt`:**
-```
-# Core — required for both notebooks
-rdkit>=2023.3.1
-xgboost>=1.7.0
-scikit-learn>=1.2.0
-joblib>=1.2.0
-numpy>=1.24.0
-pandas>=1.5.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-tqdm>=4.65.0
-streamlit>=1.32.0
-py3Dmol>=2.0.0
-stmol>=0.0.9
-
-
-# Only required for ChemBERTa (training notebook)
-transformers>=4.30.0
-torch>=2.0.0
-```
-
 | Library | Recommended Version |
 |---|---|
 | Python | >= 3.9 |
