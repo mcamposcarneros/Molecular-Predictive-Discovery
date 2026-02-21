@@ -195,9 +195,7 @@ tqdm>=4.65.0
 streamlit>=1.32.0
 py3Dmol>=2.0.0
 stmol>=0.0.9
-streamlit>=1.32.0
-py3Dmol>=2.0.0
-stmol>=0.0.9
+
 
 # Solo necesario para ChemBERTa (notebook de training)
 transformers>=4.30.0
@@ -275,4 +273,5 @@ Proyecto personal desarrollado como demostración de la intersección entre info
 
 
 MIT License — libre para uso académico y personal.
+
 
