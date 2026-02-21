@@ -205,3 +205,80 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ======================================================
+# PROJECT-SPECIFIC — ML / DATA / STREAMLIT
+# ======================================================
+
+# OS / system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Large datasets (raw data)
+data/
+datasets/
+raw_data/
+processed_data/
+
+# Large data files
+*.tsv
+*.parquet
+*.feather
+*.hdf5
+*.h5
+
+# Experiment outputs
+outputs/
+results/
+reports/
+runs/
+logs/
+artifacts/
+
+# Figures generated automatically
+figures/
+plots/
+
+# Temporary notebooks / exports
+*.nbconvert.ipynb
+
+# Model artifacts
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Ignore all pickle models EXCEPT the production model
+*.pkl
+!models/xgboost.pkl
+
+# Caches
+.cache/
+tmp/
+temp/
+
+# Local databases
+*.sqlite
+*.db
+
+# API keys / credentials
+secrets.env
+config.local.yaml
+
+# Deployment / containers
+*.local
+
+# Python profiling
+*.prof
+*.lprof
+
+# Misc scientific files
+*.mol
+*.sdf
+*.pdb
+*.xyz
