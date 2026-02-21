@@ -149,10 +149,12 @@ st.markdown("---")
 # MODO 1 — SINGLE MOLECULE
 # =========================================================
 
+DEFAULT_SMILES = "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1"
+
 if mode == "Molécula individual":
 
-    smiles = st.text_input("Introduce SMILES")
-
+    smiles = st.text_input("Introduce SMILES", value=DEFAULT_SMILES)
+    
     if st.button("Analizar molécula"):
 
         mol = smiles_to_mol(smiles)
@@ -396,4 +398,5 @@ else:
                 out.to_csv(index=False),
                 file_name="selected_molecule_detail.csv",
                 mime="text/csv"
+
             )
