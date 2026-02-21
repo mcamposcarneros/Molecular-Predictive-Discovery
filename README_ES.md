@@ -13,6 +13,28 @@ Idioma: Español | [English](README.md)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+---
+
+## Índice
+
+- [Descripción](#descripción)
+- [Impacto de Negocio y Eficiencia Operativa](#impacto-de-negocio-y-eficiencia-operativa)
+- [Estructura del repositorio](#estructura-del-repositorio)
+- [Aplicación interactiva](#aplicación-interactiva)
+- [Metodología](#metodología)
+- [Resultados](#resultados)
+- [Interpretabilidad](#interpretabilidad)
+- [Visualizaciones moleculares](#visualizaciones-moleculares)
+- [Requisitos](#requisitos)
+- [Cómo ejecutar](#cómo-ejecutar)
+- [Formato del CSV de entrada](#formato-del-csv-de-entrada-inferencia)
+- [Limitaciones](#limitaciones)
+- [Autor](#autor)
+- [Licencia](#licencia)
+
+---
 ---
 
 ## Descripción
@@ -287,6 +309,7 @@ MIT License — libre para uso académico y personal.
 ---
 
 ***María Campos Carneros, 2026***
+
 
 
 
