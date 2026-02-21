@@ -31,8 +31,7 @@ DrugProtein_ML/
 ├── Drug_Discovery_Inference.ipynb  # Predicción sobre librería nueva
 ├──app.py                          # Aplicación interactiva de virtual screening
 ├──requeriments.txt
-├── models/
-│   └── xgboost.pkl                 # Modelo entrenado listo para usar
+├──xgboost.pkl                 # Modelo entrenado listo para usar
 ├── examples/
 │   └── mi_libreria.csv             # CSV de ejemplo para probar inferencia
 └── images/                         # Gráficos generados durante el entrenamiento
@@ -267,5 +266,6 @@ Proyecto personal desarrollado como demostración de la intersección entre info
 ---
 
 ## Licencia
+
 
 MIT License — libre para uso académico y personal.
