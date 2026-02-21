@@ -15,6 +15,27 @@ Language: English | [Español](README_ES.md)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+---
+
+## Table of Contents
+
+- [Description](#description)
+- [Business Impact and Operational Efficiency](#business-impact-and-operational-efficiency)
+- [Repository Structure](#repository-structure)
+- [Interactive Application](#interactive-application)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Interpretability](#interpretability)
+- [Molecular Visualizations](#molecular-visualizations)
+- [Requirements](#requirements)
+- [How to Run](#how-to-run)
+- [Input CSV Format](#input-csv-format-inference)
+- [Limitations](#limitations)
+- [Author](#author)
+- [License](#license)
+
+---
+---
 
 ## Description
 
