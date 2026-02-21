@@ -208,32 +208,6 @@ Proyección 2D de los Morgan FP que muestra cómo se distribuyen binders y error
 
 ## Requisitos
 
-```bash
-pip install -r requirements.txt
-```
-
-**`requirements.txt`:**
-```
-# Core — necesario para ambos notebooks
-rdkit>=2023.3.1
-xgboost>=1.7.0
-scikit-learn>=1.2.0
-joblib>=1.2.0
-numpy>=1.24.0
-pandas>=1.5.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-tqdm>=4.65.0
-streamlit>=1.32.0
-py3Dmol>=2.0.0
-stmol>=0.0.9
-
-
-# Solo necesario para ChemBERTa (notebook de training)
-transformers>=4.30.0
-torch>=2.0.0
-```
-
 | Librería | Versión recomendada |
 |---|---|
 | Python | >= 3.9 |
@@ -248,7 +222,7 @@ torch>=2.0.0
 ## Cómo ejecutar
 
 ### Opción A — Solo inferencia (rápido, sin reentrenar)
-El modelo ya está entrenado en `models/xgboost.pkl`. Solo necesitas tu librería de compuestos.
+El modelo ya está entrenado en `xgboost.pkl`. Solo necesitas tu librería de compuestos.
 
 1. Prepara un CSV con una columna `smiles` (y opcionalmente `label` con 0/1)
 2. Abre `Drug_Discovery_Inference.ipynb`
@@ -309,6 +283,7 @@ MIT License — libre para uso académico y personal.
 ---
 
 ***María Campos Carneros, 2026***
+
 
 
 
