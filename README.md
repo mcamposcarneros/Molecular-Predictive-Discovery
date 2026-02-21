@@ -3,6 +3,14 @@
 > Predicción de interacciones fármaco-proteína mediante Machine Learning sobre datos reales de BindingDB.  
 > Proyecto personal que combina conocimientos de informática, administración de empresas y bioquímica.
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-green)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## Descripción
@@ -273,5 +281,6 @@ Proyecto personal desarrollado como demostración de la intersección entre info
 
 
 MIT License — libre para uso académico y personal.
+
 
 
