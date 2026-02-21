@@ -42,6 +42,12 @@ DrugProtein_ML/
 
 El proyecto incluye una **aplicación web interactiva desarrollada con Streamlit** que permite utilizar el modelo de forma directa sobre nuevas moléculas o librerías químicas completas.
 
+### Demo online
+
+La aplicación está desplegada y puede probarse directamente aquí:
+
+👉 https://molecular-predictive-discovery.streamlit.app/
+
 La aplicación permite:
 
 - Analizar una molécula individual a partir de su SMILES
@@ -269,3 +275,4 @@ Proyecto personal desarrollado como demostración de la intersección entre info
 
 
 MIT License — libre para uso académico y personal.
+
