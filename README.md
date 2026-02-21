@@ -274,7 +274,6 @@ Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,Imatinib,1
 
 ## Author
 
-Developed by **María Campos Carneros, 2026**
 Personal project developed as a demonstration of the intersection between computer science, business administration, and computational biochemistry.
 
 - **Stack:** Python, RDKit, XGBoost, HuggingFace Transformers, scikit-learn
@@ -286,3 +285,7 @@ Personal project developed as a demonstration of the intersection between comput
 ## License
 
 MIT License — free for academic and personal use.
+
+---
+
+***María Campos Carneros, 2026***
