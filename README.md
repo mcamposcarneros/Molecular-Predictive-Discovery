@@ -1,6 +1,6 @@
-Language: English | [Español](README_ES.md)
-
 # Drug-Protein Interaction ML
+
+Language: English | [Español](README_ES.md)
 
 > Prediction of drug-protein interactions using Machine Learning on real BindingDB data.  
 > Personal project combining knowledge from computer science, business administration, and biochemistry.
