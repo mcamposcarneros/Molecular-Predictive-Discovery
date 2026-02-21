@@ -284,6 +284,9 @@ Proyecto personal desarrollado como demostración de la intersección entre info
 
 MIT License — libre para uso académico y personal.
 
+---
+
+***María Campos Carneros, 2026***
 
 
 
