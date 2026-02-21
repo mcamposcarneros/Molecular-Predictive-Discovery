@@ -1,0 +1,21 @@
+smiles,name,target,label
+Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,Imatinib,BCR-ABL kinase,1
+CCOC(=O)c1cnc2cc(OC)c(OC)cc2c1NC(=O)c1ccc(F)cc1,Erlotinib-analog,EGFR kinase,1
+Cn1cnc2c1c(=O)n(CC(=O)Nc1ccc(Cl)cc1)c(=O)n2CC1CCCC1,CDK2 inhibitor,CDK2,1
+O=C(Nc1ccc(F)cc1)c1cc(Cl)cc(Cl)c1,Sorafenib-core,RAF kinase,1
+O=C(c1ccc(Cl)cc1)N1CCN(c2ncnc3[nH]ccc23)CC1,JAK1 inhibitor,JAK1,1
+Cc1nc2c(NH2)ncnc2n1C1CC1,ALK inhibitor,ALK kinase,1
+C=CC(=O)Nc1cccc(-n2ncc3ccccc32)c1,BRAF inhibitor analog,BRAF kinase,1
+Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,Celecoxib,COX-2,1
+CC(C)(C)c1ccc(-c2ccc(C(=O)Nc3cccc(C(F)(F)F)c3)cc2)cc1,Dabrafenib-analog,BRAF kinase,1
+CC1=C(C(=O)Nc2ccccc2F)c2cccc(NC(=O)c3ccc(F)cc3)c2N1,EGFR inhibitor analog,EGFR kinase,1
+CC(C)Cc1ccc(C(C)C(=O)O)cc1,Ibuprofen,COX non-specific,0
+CC(=O)Oc1ccccc1C(=O)O,Aspirin,COX non-specific,0
+Nc1ccc(S(=O)(=O)Nc2ccccn2)cc1,Sulfadiazine,DHPS bacterial,0
+OC(=O)c1ccccc1O,Salicylic acid,non-specific,0
+c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,Pyrene,non-drug,0
+O=C1NC(=O)c2ccccc21,Isatoic anhydride,non-specific,0
+CCOc1ccc(NC(=O)c2ccc(Cl)c(Cl)c2)cc1OCC,Inactive compound A,none,0
+Fc1ccc(Cn2cncn2)cc1,Fluconazole fragment,CYP51 antifungal,0
+CC(NC(=O)c1cc(Cl)c(N)c(Cl)c1)c1ccc(Cl)cc1,Inactive compound B,none,0
+O=C(O)c1ccc(NC(=O)c2cccc(NC(=O)c3ccccc3Cl)c3)cc1,Inactive compound C,none,0
