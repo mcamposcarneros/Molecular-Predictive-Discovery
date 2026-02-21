@@ -1,5 +1,7 @@
 # Drug-Protein Interaction ML
 
+Idioma: Español | [English](README.md)
+
 > Predicción de interacciones fármaco-proteína mediante Machine Learning sobre datos reales de BindingDB.  
 > Proyecto personal que combina conocimientos de informática, administración de empresas y bioquímica.
 
@@ -281,6 +283,7 @@ Proyecto personal desarrollado como demostración de la intersección entre info
 
 
 MIT License — libre para uso académico y personal.
+
 
 
 
